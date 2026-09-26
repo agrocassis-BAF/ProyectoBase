@@ -29,11 +29,14 @@
 
 ### 👥 Equipo y roles
 
-- **Integrante:** \[Nombre completo\]
-- **GitHub:** \[usuario de GitHub\]
-- **Rol:** Desarrollo Full Stack / Blockchain / Gestión del proyecto
-- **Responsable de entregas:** \[Nombre\]
-- **Canal de coordinación interna:** \[Discord / WhatsApp / Slack / GitHub\]
+- **Integrantes:**
+  - Cristian Esteban Jiménez Durango — `CristianEstebanJimenezDurango`
+  - Jefferson Cabrera — \[usuario de GitHub pendiente\]
+  - Napoleon de Jesus Anaya Romero — `alucart2005`
+  - Diego Martínez — \[usuario de GitHub pendiente\]
+- **Rol:** Programación / Informes *(según [roles-nap.md](roles-nap.md))*
+- **Responsable de entregas:** Napoleon de Jesus Anaya Romero
+- **Canal de coordinación interna:** GitHub Issues
 
 ---
 
@@ -177,11 +180,14 @@ Por ello, el proyecto debe comenzar con un **MVP pequeño**, medir el uso real y
 
 ### 👥 Team and roles
 
-- **Member:** \[Full name\]
-- **GitHub:** \[GitHub username\]
-- **Role:** Full Stack Development / Blockchain / Project Management
-- **Deliverables owner:** \[Name\]
-- **Internal coordination channel:** \[Discord / WhatsApp / Slack / GitHub\]
+- **Members:**
+  - Cristian Esteban Jiménez Durango — `CristianEstebanJimenezDurango`
+  - Jefferson Cabrera — \[GitHub username pending\]
+  - Napoleon de Jesus Anaya Romero — `alucart2005`
+  - Diego Martínez — \[GitHub username pending\]
+- **Role:** Programming / Reports *(per [roles-nap.md](roles-nap.md))*
+- **Deliverables owner:** Napoleon de Jesus Anaya Romero
+- **Internal coordination channel:** GitHub Issues
 
 ---
 
@@ -325,11 +331,14 @@ Therefore, the project must start with a **small MVP**, measure real usage, and 
 
 ### 👥 Equipe e papéis
 
-- **Integrante:** \[Nome completo\]
-- **GitHub:** \[usuário do GitHub\]
-- **Função:** Desenvolvimento Full Stack / Blockchain / Gestão do projeto
-- **Responsável pelas entregas:** \[Nome\]
-- **Canal de coordenação interna:** \[Discord / WhatsApp / Slack / GitHub\]
+- **Integrantes:**
+  - Cristian Esteban Jiménez Durango — `CristianEstebanJimenezDurango`
+  - Jefferson Cabrera — \[usuário do GitHub pendente\]
+  - Napoleon de Jesus Anaya Romero — `alucart2005`
+  - Diego Martínez — \[usuário do GitHub pendente\]
+- **Função:** Programação / Relatórios *(segundo [roles-nap.md](roles-nap.md))*
+- **Responsável pelas entregas:** Napoleon de Jesus Anaya Romero
+- **Canal de coordenação interna:** GitHub Issues
 
 ---
 
