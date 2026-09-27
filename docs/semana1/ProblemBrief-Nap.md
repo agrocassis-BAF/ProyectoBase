@@ -6,6 +6,28 @@
 
 ## 🇪🇸 Español
 
+### 🗳️ Decisión del problema
+
+#### 🎯 Problema elegido
+
+Los consumidores no pueden conocer ni verificar de manera sencilla el origen y el proceso de producción de los productos agrícolas que compran. Fue propuesto por **Napoleon de Jesus Anaya Romero**.
+
+#### 💡 Por qué elegimos este
+
+El equipo se inclinó por este problema porque encaja con los criterios de la Sesión 1: el productor, los intermediarios y el consumidor son partes que no se confían entre sí y necesitan consultar el mismo registro de un lote, y el histórico de evidencias (fotos, fechas, procesos) debe conservarse sin cambios que no queden registrados. Además es un problema real del equipo en Agro Cassis, con evidencia observable en la operación diaria.
+
+#### ❌ Propuestas descartadas
+
+- **Acceso a financiación** (propuesta de Cristian Esteban Jiménez Durango): se descartó porque depende de demostrar la credibilidad del productor, que es lo que resuelve la trazabilidad como punto de partida.
+- **Demostración de sostenibilidad** (propuesta de Jefferson Cabrera): se descartó por la misma razón: necesita un historial verificable de prácticas que parte de la trazabilidad.
+- **AgroScore** (propuesta de Diego Martínez): se descartó porque complementa la trazabilidad en vez de ser el punto de partida; se eligió primero la base sobre la que después podría construirse.
+
+#### 🤝 Cómo tomamos la decisión
+
+El equipo realizó una **votación** entre las propuestas presentadas y la propuesta de trazabilidad resultó ganadora por mayoría.
+
+---
+
 ### 📌 Encabezado
 
 **Proyecto:** Agro Cassis  
@@ -157,6 +179,28 @@ Por ello, el proyecto debe comenzar con un **MVP pequeño**, medir el uso real y
 
 ## 🇺🇸 English
 
+### 🗳️ Decision on the problem
+
+#### 🎯 Chosen problem
+
+Consumers cannot easily know or verify the origin and the production process of the agricultural products they buy. It was proposed by **Napoleon de Jesus Anaya Romero**.
+
+#### 💡 Why we chose this
+
+The team leaned toward this problem because it fits Session 1's criteria: the producer, the intermediaries and the consumer are parties that do not trust each other and need to consult the same batch record, and the history of evidence (photos, dates, processes) must be kept without untracked changes. It is also a real problem for the team at Agro Cassis, with evidence observable in daily operations.
+
+#### ❌ Discarded proposals
+
+- **Access to financing** (proposed by Cristian Esteban Jiménez Durango): discarded because it depends on proving the producer's credibility, which traceability solves as the starting point.
+- **Sustainability demonstration** (proposed by Jefferson Cabrera): discarded for the same reason: it needs a verifiable history of practices that starts from traceability.
+- **AgroScore** (proposed by Diego Martínez): discarded because it complements traceability instead of being the starting point; the base that could later support it was chosen first.
+
+#### 🤝 How we made the decision
+
+The team held a **vote** among the submitted proposals and the traceability proposal won by majority.
+
+---
+
 ### 📌 Header
 
 **Project:** Agro Cassis  
@@ -307,6 +351,28 @@ Therefore, the project must start with a **small MVP**, measure real usage, and 
 ---
 
 ## 🇧🇷 Português
+
+### 🗳️ Decisão sobre o problema
+
+#### 🎯 Problema escolhido
+
+Os consumidores não conseguem conhecer nem verificar de forma simples a origem e o processo de produção dos produtos agrícolas que compram. Foi proposto por **Napoleon de Jesus Anaya Romero**.
+
+#### 💡 Por que escolhemos este
+
+A equipe inclinou-se por este problema porque ele atende aos critérios da Sessão 1: o produtor, os intermediários e o consumidor são partes que não confiam umas nas outras e precisam consultar o mesmo registro de um lote, e o histórico de evidências (fotos, datas, processos) deve ser preservado sem alterações não registradas. Além disso, é um problema real da equipe na Agro Cassis, com evidência observável na operação diária.
+
+#### ❌ Propostas descartadas
+
+- **Acesso a financiamento** (proposta de Cristian Esteban Jiménez Durango): descartada porque depende de comprovar a credibilidade do produtor, que é o que a rastreabilidade resolve como ponto de partida.
+- **Demonstração de sustentabilidade** (proposta de Jefferson Cabrera): descartada pelo mesmo motivo: precisa de um histórico verificável de práticas que parte da rastreabilidade.
+- **AgroScore** (proposta de Diego Martínez): descartada porque complementa a rastreabilidade em vez de ser o ponto de partida; escolheu-se primeiro a base sobre a qual ela poderia ser construída.
+
+#### 🤝 Como tomamos a decisão
+
+A equipe realizou uma **votação** entre as propostas apresentadas e a proposta de rastreabilidade venceu por maioria.
+
+---
 
 ### 📌 Cabeçalho
 
